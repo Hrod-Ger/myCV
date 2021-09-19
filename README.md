@@ -1,10 +1,5 @@
 # MyCv
 My CV in Website format.
-Made with: HTML5, CSS3, JS, Angular CLI.
-
-
-
-
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.6.
 
